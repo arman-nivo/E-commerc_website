@@ -1,0 +1,1 @@
+<?php echo e(Cart::instance('shopping')->count()); ?><?php /**PATH /home/u737498567/domains/technogeekbd.store/public_html/resources/views/frontEnd/layouts/ajax/mobilecart_qty.blade.php ENDPATH**/ ?>

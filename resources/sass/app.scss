@@ -1,0 +1,6 @@
+// Sass imports MUST come first
+@use "variables" as *;
+@use "bootstrap/scss/bootstrap" as *;
+
+// Safe to place normal CSS imports after Sass imports
+@import url("https://fonts.bunny.net/css?family=Nunito");
